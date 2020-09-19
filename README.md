@@ -6,7 +6,7 @@
 3. ESLint(global install)
 4. Highlight Matching Tag
 5. Intellisense for css class
-6. JavaScript (ES6) code snipset
+6. JavaScript (ES6) code snipset(disabled)
 7. Laravel Artisan
 8. Laravel Blade Snipsets
 9. Material Icon Theme
@@ -16,10 +16,10 @@
 14. php debug
 15. php docblocker
 16. php intellisense
-17. php intellisense - crane
+17. php intellisense - craneI(disabled)
 18. php namespace resolver
 19. prettier - code formatter
-20. sublime text keymap
+20. sublime text keymap(disabled)
 21. vetur
 22. laravel goto view(disabled)
 23. php intelliphense(disabled)
