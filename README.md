@@ -52,6 +52,9 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "blade.format.enable": true,
     "php-cs-fixer.formatHtml": true,
+    "editor.tokenColorCustomizations": {
+        "comments": "#74705D"
+    },
 
 }
 
